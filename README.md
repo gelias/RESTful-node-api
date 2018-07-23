@@ -1,7 +1,7 @@
 RESTful API
 ===========
 
-[NodeJ](https://nodej.org)
+[NodeJS](https://nodej.org)
 
 Docker
 ======
